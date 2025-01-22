@@ -1,16 +1,36 @@
-## Hi there 👋
+<div>
+<table>
+  <tr>
+    <td style="width: 50%;">
+       <img src="https://github.com/user-attachments/assets/ed1eb289-c132-402d-b117-d5ba09a2efc6" alt="pic" style="width: 200%; border: none;"/>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <p style="font-family: monospace; font-size: 16px;">
+        Aprender é dificil demais. 👍
+</p>
+</div>
+      
+## Bem-vindo(a) ao perfil do Snoopy.
 
-<!--
-**InjuredCrow/InjuredCrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div>
+   <a href="https://github.com/InjuredCrow">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=InjuredCrow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InjuredCrow&layout=compact&langs_count=6&theme=dark"/>
+</div>
+    
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+          
+<br>
+ 
+### Redes socias!
+ 
+<div> 
+  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%25B4FF?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
